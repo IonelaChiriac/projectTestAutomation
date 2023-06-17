@@ -1,4 +1,4 @@
-package Course02;
+package ro.sit.homework.homework02JavaIntro;
 
 //Exercise 02
 //Display the number of days in month February from a year between 1900-2016 that is read from keyboard
