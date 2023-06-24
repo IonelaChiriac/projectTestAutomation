@@ -1,4 +1,4 @@
-package ro.sit.homework.homework02JavaIntro;
+package ro.sit.homework.homework02_JavaIntro;
 
 //Exercise 01
 // Calculate the sum of the first 100 numbers higher than 0. Name the class (and java file) SumOfNumbers.

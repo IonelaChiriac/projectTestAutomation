@@ -1,4 +1,4 @@
-package ro.sit.course.course02;
+package ro.sit.course.course02_JavaIntro;
 
 public class Exercises {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ro.sit.homework.homework02JavaIntro;
+package ro.sit.homework.homework02_JavaIntro;
 
 //Exercise 02
 // Display all the prime numbers lower than 1 000 000. Name the class (and java file) PrimeNumbers
